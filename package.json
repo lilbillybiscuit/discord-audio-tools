@@ -1,0 +1,26 @@
+{
+  "name": "discord-audio-tools",
+  "version": "0.0.1",
+  "description": "A bot providing tools for discord voice channels",
+  "main": "main.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilbillybiscuit/discord-audio-tools.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "lilbillybiscuit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilbillybiscuit/discord-audio-tools/issues"
+  },
+  "homepage": "https://github.com/lilbillybiscuit/discord-audio-tools#readme"
+}
